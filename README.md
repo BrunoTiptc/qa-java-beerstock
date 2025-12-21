@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h2>Digital Innovation: Expert class - Desenvolvimento de testes unitários para validar uma API REST de gerenciamento de estoques de cerveja.</h2>
 
 Nesta live coding, vamos aprender a testar, unitariamente, uma API REST para o gerenciamento de estoques de cerveja. Vamos desenvolver testes unitários para validar o nosso sistema de gerenciamento de estoques de cerveja, e também apresentar os principais conceitos e vantagens de criar testes unitários com JUnit e Mockito. Além disso, vamos também mostrar como desenvolver funcionalidades da nossa API através da prática do TDD.
@@ -54,3 +55,7 @@ Abaixo, seguem links bem bacanas, sobre tópicos mencionados durante a aula:
 
 
 
+=======
+# qa-java-beerstock
+Projeto desenvolvido como parte do Lab de QA Java da Digital Innovation One (DIO).  O objetivo foi trabalhar em um projeto Spring Boot já existente, aplicando testes unitários com JUnit e Mockito para validação das regras de negócio, como controle de estoque, tratamento de exceções e limites de quantidade.
+>>>>>>> ce83cad1aad4ea30b470ce9fed47c17d8a2a7d6a
